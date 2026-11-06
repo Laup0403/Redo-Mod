@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+      "particle": "minecraft:block/iron_block",
+      "down": "minecraft:block/iron_block",
+      "up": "redo-xxl:block/grill_top",
+      "north": "redo-xxl:block/grill_front",
+      "south": "redo-xxl:block/grill_side",
+      "west": "redo-xxl:block/grill_side",
+      "east": "redo-xxl:block/grill_side"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "druck": {
+    "subtitle": "sound.redo-xxl.druck",
+    "sounds": ["redo-xxl:druck"]
+  },
+  "dustin": {
+    "subtitle": "sound.redo-xxl.dustin",
+    "sounds": ["redo-xxl:dustin"]
+  },
+  "gig": {
+    "subtitle": "sound.redo-xxl.gig",
+    "sounds": ["redo-xxl:gig"]
+  },
+  "schneedo": {
+    "subtitle": "sound.redo-xxl.schneedo",
+    "sounds": ["redo-xxl:schneedo"]
+  }
+}

@@ -1,0 +1,64 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.ReneDostEntityModel",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "Kopf",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-4, 24, -4], "size": [8, 8, 8], "uv": [0, 0]},
+						{"origin": [-4, 30, -9], "size": [8, 0, 5], "uv": [32, 32]}
+					]
+				},
+				{
+					"name": "Körper",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-4, 12, -2], "size": [8, 12, 4], "uv": [0, 16]}
+					]
+				},
+				{
+					"name": "ArmLinks",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [4, 12, -2], "size": [4, 12, 4], "uv": [24, 16]},
+						{"origin": [4, 14, -3], "size": [5, 2, 6], "uv": [42, 10]}
+					]
+				},
+				{
+					"name": "ArmRechts",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-8, 12, -2], "size": [4, 12, 4], "uv": [0, 32]},
+						{"origin": [-9, 14, -3], "size": [5, 2, 6], "uv": [42, 18]}
+					]
+				},
+				{
+					"name": "BeinLinks",
+					"pivot": [0, 21, 0],
+					"cubes": [
+						{"origin": [0, 0, -2], "size": [4, 12, 4], "uv": [32, 0]},
+						{"origin": [0, 0, -4], "size": [4, 2, 2], "uv": [48, 0]}
+					]
+				},
+				{
+					"name": "BeinRechts",
+					"pivot": [-2, 21, 2],
+					"cubes": [
+						{"origin": [-4, 0, -2], "size": [4, 12, 4], "uv": [16, 32]},
+						{"origin": [-4, 0, -4], "size": [4, 2, 2], "uv": [48, 0]}
+					]
+				}
+			]
+		}
+	]
+}

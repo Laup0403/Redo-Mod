@@ -1,0 +1,21 @@
+{
+
+  "fallback": "minecraft:empty",
+
+  "elements": [
+  {
+
+    "weight": 1,
+    "element": {
+
+      "location": "redo-xxl:foodtruck",
+
+      "processors": "minecraft:empty",
+
+      "projection": "rigid",
+
+      "element_type": "minecraft:single_pool_element"
+    }
+  }
+]
+}

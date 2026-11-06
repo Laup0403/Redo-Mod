@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "redo-xxl:item/xxl_burger"
+  }
+}
